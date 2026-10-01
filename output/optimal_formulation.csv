@@ -1,0 +1,4 @@
+role,variant_id,buffer,pH,stabilizer,conc_level,conc_value,conc_unit,is_baseline,mean_pct_aggregation,sd_pct_aggregation,mean_pct_acidic_variant,mean_pct_main_peak,mean_potency_retention_pct
+baseline,FORM-0017,Histidine,6.0,Sucrose,low,1.0,% w/v,True,0.649,0.13243488966280753,7.619666666666667,89.20366666666666,99.073
+optimal,FORM-0020,Histidine,6.0,Trehalose,high,4.0,% w/v,False,0.07866666666666666,0.037421027956662724,7.653333333333333,89.60333333333334,99.18633333333332
+improvement,,,,,,,,,87.87878787878788,,,,0.11333333333332973

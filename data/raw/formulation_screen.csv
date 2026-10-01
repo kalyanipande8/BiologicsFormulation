@@ -1,0 +1,481 @@
+variant_id,buffer,pH,stabilizer,conc_level,conc_value,conc_unit,stress_condition,replicate,pct_aggregation,pct_acidic_variant,pct_basic_variant,pct_main_peak,potency_retention_pct,is_baseline
+FORM-0001,Histidine,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.08,6.744,3.494,89.761,97.008,False
+FORM-0001,Histidine,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.946,5.732,3.383,90.884,98.394,False
+FORM-0001,Histidine,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.125,5.959,3.458,90.582,98.312,False
+FORM-0002,Histidine,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.807,6.039,3.62,90.341,97.695,False
+FORM-0002,Histidine,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.913,6.469,3.388,90.143,99.218,False
+FORM-0002,Histidine,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.847,6.004,3.354,90.642,98.116,False
+FORM-0003,Histidine,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.857,6.498,3.96,89.542,97.369,False
+FORM-0003,Histidine,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.865,6.514,3.323,90.162,98.513,False
+FORM-0003,Histidine,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.953,6.521,3.297,90.182,98.923,False
+FORM-0004,Histidine,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.539,6.493,3.171,90.336,98.965,False
+FORM-0004,Histidine,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.466,6.525,3.396,90.079,99.487,False
+FORM-0004,Histidine,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.468,6.455,3.367,90.178,98.969,False
+FORM-0005,Histidine,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.218,6.666,3.37,89.964,98.666,False
+FORM-0005,Histidine,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.157,5.935,3.328,90.737,96.777,False
+FORM-0005,Histidine,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.179,6.333,3.419,90.248,98.245,False
+FORM-0006,Histidine,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.832,6.605,3.363,90.032,97.647,False
+FORM-0006,Histidine,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.967,6.649,3.334,90.017,96.779,False
+FORM-0006,Histidine,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.016,6.678,3.664,89.658,96.893,False
+FORM-0007,Histidine,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.858,6.627,3.594,89.779,97.38,False
+FORM-0007,Histidine,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.0,6.235,3.36,90.404,97.62,False
+FORM-0007,Histidine,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.964,6.44,3.552,90.008,97.605,False
+FORM-0008,Histidine,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.53,6.299,3.529,90.172,98.506,False
+FORM-0008,Histidine,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.699,6.463,3.338,90.199,97.22,False
+FORM-0008,Histidine,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.603,6.451,3.257,90.292,97.412,False
+FORM-0009,Histidine,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.618,6.708,3.198,90.093,98.186,False
+FORM-0009,Histidine,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.65,6.893,3.472,89.635,97.59,False
+FORM-0009,Histidine,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.79,7.48,3.054,89.466,98.079,False
+FORM-0010,Histidine,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.584,7.033,3.243,89.724,98.917,False
+FORM-0010,Histidine,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.327,6.742,3.093,90.165,100.0,False
+FORM-0010,Histidine,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.543,6.444,3.283,90.273,98.709,False
+FORM-0011,Histidine,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.498,7.456,3.616,88.928,97.939,False
+FORM-0011,Histidine,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.618,7.272,2.953,89.775,98.368,False
+FORM-0011,Histidine,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.622,7.105,3.09,89.805,97.579,False
+FORM-0012,Histidine,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.314,6.52,3.662,89.819,98.658,False
+FORM-0012,Histidine,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.228,6.985,3.891,89.124,97.744,False
+FORM-0012,Histidine,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.103,7.168,3.266,89.566,99.664,False
+FORM-0013,Histidine,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.769,7.006,3.273,89.721,97.741,False
+FORM-0013,Histidine,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.808,7.428,3.054,89.518,98.087,False
+FORM-0013,Histidine,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.789,7.11,2.894,89.996,99.544,False
+FORM-0014,Histidine,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.713,6.595,3.807,89.598,97.738,False
+FORM-0014,Histidine,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.798,6.672,3.07,90.258,99.205,False
+FORM-0014,Histidine,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.65,6.756,3.485,89.759,98.768,False
+FORM-0015,Histidine,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.634,7.151,2.943,89.906,98.698,False
+FORM-0015,Histidine,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.646,6.836,3.306,89.859,98.475,False
+FORM-0015,Histidine,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.585,6.566,3.657,89.777,98.799,False
+FORM-0016,Histidine,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.481,7.292,3.233,89.474,100.0,False
+FORM-0016,Histidine,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.372,7.055,2.881,90.064,100.0,False
+FORM-0016,Histidine,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.309,7.443,2.845,89.712,99.086,False
+FORM-0017,Histidine,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.612,7.382,3.161,89.457,99.628,True
+FORM-0017,Histidine,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.796,7.92,3.122,88.958,98.574,True
+FORM-0017,Histidine,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.539,7.557,3.247,89.196,99.017,True
+FORM-0018,Histidine,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.195,7.193,3.329,89.478,98.691,False
+FORM-0018,Histidine,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.395,7.313,2.768,89.919,98.816,False
+FORM-0018,Histidine,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.316,7.503,3.108,89.389,99.88,False
+FORM-0019,Histidine,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.554,7.406,3.169,89.424,99.03,False
+FORM-0019,Histidine,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.634,7.572,2.854,89.574,100.0,False
+FORM-0019,Histidine,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.485,7.735,3.148,89.118,100.0,False
+FORM-0020,Histidine,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.065,7.338,2.855,89.807,99.524,False
+FORM-0020,Histidine,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.121,7.655,2.874,89.471,98.804,False
+FORM-0020,Histidine,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.05,7.967,2.501,89.532,99.231,False
+FORM-0021,Histidine,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.662,7.212,2.913,89.875,97.334,False
+FORM-0021,Histidine,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.741,8.47,3.647,87.883,97.977,False
+FORM-0021,Histidine,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.574,7.274,3.914,88.812,98.544,False
+FORM-0022,Histidine,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.773,7.952,3.117,88.931,98.404,False
+FORM-0022,Histidine,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.501,7.832,2.806,89.362,98.803,False
+FORM-0022,Histidine,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.575,7.548,3.09,89.361,98.173,False
+FORM-0023,Histidine,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.597,7.788,2.957,89.255,100.0,False
+FORM-0023,Histidine,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.651,7.684,3.217,89.1,99.991,False
+FORM-0023,Histidine,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.566,7.665,3.113,89.222,99.041,False
+FORM-0024,Histidine,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.174,7.667,3.294,89.039,99.047,False
+FORM-0024,Histidine,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.139,7.743,3.176,89.081,99.635,False
+FORM-0024,Histidine,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.369,6.964,2.785,90.251,99.466,False
+FORM-0025,Histidine,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.721,8.478,3.128,88.393,97.729,False
+FORM-0025,Histidine,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.74,8.94,3.232,87.828,96.621,False
+FORM-0025,Histidine,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.725,7.527,3.261,89.212,98.289,False
+FORM-0026,Histidine,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.673,8.235,3.041,88.724,99.988,False
+FORM-0026,Histidine,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.347,8.329,3.45,88.221,99.544,False
+FORM-0026,Histidine,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.586,7.981,3.271,88.748,98.954,False
+FORM-0027,Histidine,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.774,8.276,3.397,88.326,98.219,False
+FORM-0027,Histidine,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.644,8.403,2.855,88.741,99.309,False
+FORM-0027,Histidine,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.683,8.136,3.346,88.519,98.973,False
+FORM-0028,Histidine,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.432,8.252,3.44,88.308,98.368,False
+FORM-0028,Histidine,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.323,7.865,3.222,88.913,99.205,False
+FORM-0028,Histidine,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.093,8.094,2.888,89.019,98.206,False
+FORM-0029,Histidine,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.783,8.668,3.231,88.101,96.145,False
+FORM-0029,Histidine,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.881,7.653,3.316,89.031,97.323,False
+FORM-0029,Histidine,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.966,8.562,3.617,87.822,98.268,False
+FORM-0030,Histidine,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.542,8.706,3.442,87.852,98.358,False
+FORM-0030,Histidine,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.848,8.21,3.233,88.557,97.451,False
+FORM-0030,Histidine,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.737,8.695,3.234,88.072,98.023,False
+FORM-0031,Histidine,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.635,8.025,2.977,88.999,98.932,False
+FORM-0031,Histidine,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.688,8.351,2.957,88.692,98.266,False
+FORM-0031,Histidine,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.75,8.914,3.213,87.873,99.32,False
+FORM-0032,Histidine,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.436,9.12,3.489,87.392,99.996,False
+FORM-0032,Histidine,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.434,8.233,2.973,88.794,97.666,False
+FORM-0032,Histidine,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.405,7.604,3.114,89.282,97.947,False
+FORM-0033,Histidine,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.89,9.398,2.685,87.917,97.457,False
+FORM-0033,Histidine,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.971,9.312,3.276,87.412,97.651,False
+FORM-0033,Histidine,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.094,8.721,3.145,88.135,97.2,False
+FORM-0034,Histidine,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.876,8.893,3.405,87.702,97.453,False
+FORM-0034,Histidine,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.823,9.077,3.102,87.821,97.572,False
+FORM-0034,Histidine,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.853,9.209,3.33,87.461,98.33,False
+FORM-0035,Histidine,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.701,8.353,3.154,88.493,98.498,False
+FORM-0035,Histidine,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.77,8.933,3.274,87.793,97.38,False
+FORM-0035,Histidine,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.752,9.432,3.497,87.07,98.518,False
+FORM-0036,Histidine,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.559,8.547,3.338,88.115,98.557,False
+FORM-0036,Histidine,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.466,8.754,3.568,87.678,97.41,False
+FORM-0036,Histidine,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.491,8.94,2.792,88.268,98.622,False
+FORM-0037,Histidine,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.137,9.033,3.124,87.843,97.122,False
+FORM-0037,Histidine,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.967,9.058,3.394,87.547,97.149,False
+FORM-0037,Histidine,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.243,8.871,3.24,87.889,97.916,False
+FORM-0038,Histidine,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.966,9.084,3.217,87.699,98.867,False
+FORM-0038,Histidine,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.852,9.59,3.337,87.073,97.261,False
+FORM-0038,Histidine,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.107,9.334,3.738,86.928,97.333,False
+FORM-0039,Histidine,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.058,9.176,2.84,87.984,96.953,False
+FORM-0039,Histidine,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.865,9.295,2.719,87.986,97.086,False
+FORM-0039,Histidine,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.983,8.893,2.958,88.149,98.87,False
+FORM-0040,Histidine,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.761,8.953,3.317,87.73,97.098,False
+FORM-0040,Histidine,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.554,8.995,3.078,87.927,98.017,False
+FORM-0040,Histidine,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.685,9.16,3.428,87.412,100.0,False
+FORM-0041,Citrate,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.21,6.66,3.302,90.038,97.92,False
+FORM-0041,Citrate,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.331,6.436,3.604,89.959,98.256,False
+FORM-0041,Citrate,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.197,6.397,3.284,90.319,97.681,False
+FORM-0042,Citrate,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.909,6.709,2.937,90.355,98.654,False
+FORM-0042,Citrate,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.983,5.74,3.061,91.199,97.362,False
+FORM-0042,Citrate,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.907,6.264,3.775,89.961,96.735,False
+FORM-0043,Citrate,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.741,6.563,3.069,90.367,97.649,False
+FORM-0043,Citrate,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.983,6.215,3.385,90.4,98.35,False
+FORM-0043,Citrate,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.28,6.574,3.484,89.942,97.993,False
+FORM-0044,Citrate,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.754,6.876,3.706,89.418,98.133,False
+FORM-0044,Citrate,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.619,5.967,3.324,90.709,99.652,False
+FORM-0044,Citrate,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.777,5.996,3.723,90.282,98.593,False
+FORM-0045,Citrate,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.313,6.157,3.13,90.713,98.086,False
+FORM-0045,Citrate,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.444,6.329,3.681,89.99,95.252,False
+FORM-0045,Citrate,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.251,6.645,3.387,89.968,96.538,False
+FORM-0046,Citrate,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.969,6.379,3.535,90.086,98.028,False
+FORM-0046,Citrate,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.055,6.353,3.232,90.415,97.806,False
+FORM-0046,Citrate,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.162,6.386,3.661,89.953,97.943,False
+FORM-0047,Citrate,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.117,6.319,3.161,90.52,97.875,False
+FORM-0047,Citrate,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.291,6.163,3.25,90.588,97.648,False
+FORM-0047,Citrate,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.079,6.065,3.454,90.481,96.995,False
+FORM-0048,Citrate,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.878,6.108,3.035,90.857,97.548,False
+FORM-0048,Citrate,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.861,6.528,3.38,90.092,98.419,False
+FORM-0048,Citrate,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.772,6.402,3.462,90.136,97.104,False
+FORM-0049,Citrate,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.184,7.242,3.289,89.469,99.288,False
+FORM-0049,Citrate,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.175,6.272,3.094,90.634,96.749,False
+FORM-0049,Citrate,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.025,6.71,3.541,89.749,97.02,False
+FORM-0050,Citrate,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.824,7.127,2.98,89.893,98.89,False
+FORM-0050,Citrate,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.961,7.677,3.194,89.128,98.433,False
+FORM-0050,Citrate,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.678,6.462,3.17,90.368,96.82,False
+FORM-0051,Citrate,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.952,6.85,3.516,89.634,98.45,False
+FORM-0051,Citrate,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.842,6.847,3.437,89.716,97.193,False
+FORM-0051,Citrate,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.027,7.259,2.904,89.837,98.208,False
+FORM-0052,Citrate,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.408,6.516,3.084,90.4,98.816,False
+FORM-0052,Citrate,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.595,7.215,3.6,89.185,99.005,False
+FORM-0052,Citrate,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.469,7.05,3.127,89.823,98.294,False
+FORM-0053,Citrate,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.197,7.622,3.79,88.588,95.921,False
+FORM-0053,Citrate,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.097,6.781,4.025,89.194,97.222,False
+FORM-0053,Citrate,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.109,6.301,3.286,90.413,97.241,False
+FORM-0054,Citrate,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.981,7.284,3.863,88.853,97.686,False
+FORM-0054,Citrate,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.889,6.577,3.393,90.03,98.292,False
+FORM-0054,Citrate,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.058,7.345,3.266,89.39,96.415,False
+FORM-0055,Citrate,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.966,7.024,3.484,89.492,98.052,False
+FORM-0055,Citrate,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.911,7.669,3.417,88.914,98.88,False
+FORM-0055,Citrate,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.135,6.699,3.12,90.181,97.651,False
+FORM-0056,Citrate,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.481,6.875,2.859,90.266,96.518,False
+FORM-0056,Citrate,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.648,6.966,3.383,89.651,99.198,False
+FORM-0056,Citrate,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.56,6.398,3.132,90.47,98.788,False
+FORM-0057,Citrate,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.116,7.979,3.394,88.628,97.763,False
+FORM-0057,Citrate,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.056,8.69,3.255,88.055,98.264,False
+FORM-0057,Citrate,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.271,8.003,3.501,88.496,96.846,False
+FORM-0058,Citrate,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.894,8.306,3.313,88.381,96.038,False
+FORM-0058,Citrate,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.89,7.621,3.173,89.206,97.178,False
+FORM-0058,Citrate,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.017,7.633,3.472,88.895,97.213,False
+FORM-0059,Citrate,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.805,7.741,3.002,89.257,96.828,False
+FORM-0059,Citrate,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.941,8.201,3.245,88.554,96.88,False
+FORM-0059,Citrate,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.946,7.725,3.522,88.753,98.055,False
+FORM-0060,Citrate,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.665,7.952,3.119,88.929,98.964,False
+FORM-0060,Citrate,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.752,7.344,2.868,89.788,98.135,False
+FORM-0060,Citrate,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.686,7.702,2.781,89.517,97.597,False
+FORM-0061,Citrate,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.278,7.362,3.393,89.245,96.137,False
+FORM-0061,Citrate,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.4,7.563,3.514,88.923,97.391,False
+FORM-0061,Citrate,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.059,8.398,3.037,88.566,97.079,False
+FORM-0062,Citrate,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.192,7.897,2.879,89.224,98.328,False
+FORM-0062,Citrate,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.119,8.113,2.723,89.164,96.562,False
+FORM-0062,Citrate,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.165,8.124,3.535,88.341,95.89,False
+FORM-0063,Citrate,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.097,8.007,3.275,88.718,99.132,False
+FORM-0063,Citrate,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.181,7.696,3.197,89.107,98.921,False
+FORM-0063,Citrate,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.267,7.514,3.018,89.468,98.402,False
+FORM-0064,Citrate,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.695,7.891,3.382,88.727,96.758,False
+FORM-0064,Citrate,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.873,8.174,3.356,88.47,98.252,False
+FORM-0064,Citrate,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.851,7.959,3.282,88.759,97.74,False
+FORM-0065,Citrate,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.472,9.156,3.403,87.441,96.385,False
+FORM-0065,Citrate,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.768,8.769,3.451,87.78,96.115,False
+FORM-0065,Citrate,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.773,9.153,3.127,87.721,95.025,False
+FORM-0066,Citrate,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.345,8.918,3.349,87.733,96.522,False
+FORM-0066,Citrate,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.342,8.609,3.287,88.104,96.046,False
+FORM-0066,Citrate,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.53,8.692,3.067,88.241,95.643,False
+FORM-0067,Citrate,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.501,8.592,3.619,87.789,95.546,False
+FORM-0067,Citrate,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.489,8.983,3.372,87.644,96.688,False
+FORM-0067,Citrate,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.271,9.006,3.151,87.843,96.716,False
+FORM-0068,Citrate,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.229,8.095,3.224,88.681,96.816,False
+FORM-0068,Citrate,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.21,8.418,3.131,88.451,96.717,False
+FORM-0068,Citrate,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.087,8.606,3.338,88.056,97.469,False
+FORM-0069,Citrate,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.66,8.311,3.134,88.554,95.86,False
+FORM-0069,Citrate,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.724,8.542,2.896,88.563,95.861,False
+FORM-0069,Citrate,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.727,9.213,2.96,87.827,95.742,False
+FORM-0070,Citrate,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.671,9.212,3.199,87.589,97.324,False
+FORM-0070,Citrate,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.283,8.27,3.164,88.566,97.652,False
+FORM-0070,Citrate,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.59,8.532,3.306,88.162,95.913,False
+FORM-0071,Citrate,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.691,8.617,4.17,87.213,97.073,False
+FORM-0071,Citrate,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.504,8.696,3.588,87.716,96.008,False
+FORM-0071,Citrate,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.675,8.778,3.198,88.024,95.906,False
+FORM-0072,Citrate,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.291,8.565,2.816,88.619,95.835,False
+FORM-0072,Citrate,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.203,8.678,3.467,87.856,96.942,False
+FORM-0072,Citrate,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.228,8.709,3.054,88.237,97.056,False
+FORM-0073,Citrate,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.218,9.444,3.642,86.915,94.288,False
+FORM-0073,Citrate,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.371,9.382,3.32,87.299,92.724,False
+FORM-0073,Citrate,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.153,9.57,3.753,86.677,92.67,False
+FORM-0074,Citrate,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.036,9.501,3.232,87.267,95.045,False
+FORM-0074,Citrate,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.015,9.59,3.216,87.193,95.81,False
+FORM-0074,Citrate,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.027,9.843,3.236,86.921,94.468,False
+FORM-0075,Citrate,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.887,9.346,3.456,87.198,93.893,False
+FORM-0075,Citrate,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.967,9.398,3.797,86.805,94.966,False
+FORM-0075,Citrate,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.054,9.555,3.365,87.08,93.355,False
+FORM-0076,Citrate,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.826,9.992,3.391,86.617,94.529,False
+FORM-0076,Citrate,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.798,9.218,3.128,87.654,94.788,False
+FORM-0076,Citrate,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.773,10.157,3.464,86.378,95.707,False
+FORM-0077,Citrate,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.443,10.021,3.938,86.041,93.313,False
+FORM-0077,Citrate,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.325,10.119,3.127,86.754,94.102,False
+FORM-0077,Citrate,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.486,9.802,3.517,86.681,93.55,False
+FORM-0078,Citrate,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.221,9.716,3.561,86.723,95.67,False
+FORM-0078,Citrate,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.426,9.49,3.671,86.839,94.6,False
+FORM-0078,Citrate,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.221,9.598,3.851,86.552,94.824,False
+FORM-0079,Citrate,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,2.072,9.859,3.67,86.471,94.183,False
+FORM-0079,Citrate,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,2.179,9.63,3.847,86.523,94.736,False
+FORM-0079,Citrate,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,2.282,9.866,3.619,86.514,92.123,False
+FORM-0080,Citrate,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.926,9.624,3.294,87.082,96.954,False
+FORM-0080,Citrate,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.523,9.633,3.815,86.552,95.158,False
+FORM-0080,Citrate,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.715,9.059,3.351,87.59,95.486,False
+FORM-0081,Phosphate,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,3.912,7.187,4.074,88.74,91.778,False
+FORM-0081,Phosphate,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,3.763,7.213,3.952,88.836,91.524,False
+FORM-0081,Phosphate,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,3.65,6.747,4.369,88.884,91.665,False
+FORM-0082,Phosphate,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,3.522,6.785,3.721,89.494,91.075,False
+FORM-0082,Phosphate,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,3.562,7.537,4.186,88.277,92.484,False
+FORM-0082,Phosphate,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,3.4,7.006,4.191,88.803,92.888,False
+FORM-0083,Phosphate,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,3.637,7.296,4.318,88.386,93.132,False
+FORM-0083,Phosphate,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,3.663,7.074,4.47,88.456,91.992,False
+FORM-0083,Phosphate,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,3.46,7.011,4.549,88.44,92.362,False
+FORM-0084,Phosphate,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,3.327,7.363,3.909,88.728,93.122,False
+FORM-0084,Phosphate,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,3.262,7.054,4.171,88.775,93.386,False
+FORM-0084,Phosphate,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,3.263,6.82,4.013,89.167,92.55,False
+FORM-0085,Phosphate,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,3.926,7.76,3.901,88.339,91.311,False
+FORM-0085,Phosphate,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,3.888,7.08,3.907,89.013,91.261,False
+FORM-0085,Phosphate,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,3.727,6.676,4.176,89.149,92.026,False
+FORM-0086,Phosphate,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,3.734,7.426,3.58,88.994,92.696,False
+FORM-0086,Phosphate,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,3.732,6.472,4.134,89.394,92.81,False
+FORM-0086,Phosphate,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,3.741,7.082,4.124,88.794,92.022,False
+FORM-0087,Phosphate,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,3.6,7.195,4.314,88.492,92.749,False
+FORM-0087,Phosphate,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,3.699,7.54,4.282,88.178,92.529,False
+FORM-0087,Phosphate,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,3.597,7.0,3.874,89.126,92.052,False
+FORM-0088,Phosphate,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,3.274,7.295,3.727,88.978,94.586,False
+FORM-0088,Phosphate,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,3.264,6.771,3.986,89.243,91.528,False
+FORM-0088,Phosphate,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,3.296,7.258,4.065,88.677,93.808,False
+FORM-0089,Phosphate,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.715,7.766,3.661,88.573,93.973,False
+FORM-0089,Phosphate,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.741,7.556,4.058,88.386,93.164,False
+FORM-0089,Phosphate,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.712,8.119,3.614,88.267,94.386,False
+FORM-0090,Phosphate,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.595,7.145,3.484,89.371,96.845,False
+FORM-0090,Phosphate,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.442,7.455,3.769,88.776,94.128,False
+FORM-0090,Phosphate,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.43,6.978,4.042,88.98,95.746,False
+FORM-0091,Phosphate,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.574,7.587,3.388,89.025,94.146,False
+FORM-0091,Phosphate,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.535,7.604,3.352,89.045,93.89,False
+FORM-0091,Phosphate,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.593,7.422,3.901,88.677,94.374,False
+FORM-0092,Phosphate,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.279,7.889,3.893,88.217,95.651,False
+FORM-0092,Phosphate,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.218,8.013,3.96,88.027,95.639,False
+FORM-0092,Phosphate,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.134,7.633,3.933,88.434,95.576,False
+FORM-0093,Phosphate,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.69,7.362,4.172,88.466,93.599,False
+FORM-0093,Phosphate,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.87,8.096,3.732,88.172,93.873,False
+FORM-0093,Phosphate,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.664,7.934,3.512,88.554,93.854,False
+FORM-0094,Phosphate,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.763,7.249,3.575,89.176,93.921,False
+FORM-0094,Phosphate,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.614,7.753,3.704,88.544,95.554,False
+FORM-0094,Phosphate,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.685,7.596,3.716,88.687,94.058,False
+FORM-0095,Phosphate,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,2.576,7.488,3.709,88.803,94.282,False
+FORM-0095,Phosphate,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,2.39,7.34,4.072,88.588,94.181,False
+FORM-0095,Phosphate,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,2.511,8.064,3.765,88.171,94.255,False
+FORM-0096,Phosphate,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,2.472,7.3,3.793,88.907,95.764,False
+FORM-0096,Phosphate,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,2.068,7.495,3.579,88.926,95.087,False
+FORM-0096,Phosphate,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,2.1,7.732,3.93,88.339,95.71,False
+FORM-0097,Phosphate,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.977,8.124,2.875,89.002,95.215,False
+FORM-0097,Phosphate,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.894,8.085,3.133,88.781,95.302,False
+FORM-0097,Phosphate,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.02,8.601,3.191,88.209,94.299,False
+FORM-0098,Phosphate,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.601,8.641,3.138,88.222,95.283,False
+FORM-0098,Phosphate,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.614,7.866,2.948,89.186,96.014,False
+FORM-0098,Phosphate,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.946,7.883,3.396,88.721,94.801,False
+FORM-0099,Phosphate,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.724,8.186,3.25,88.564,94.75,False
+FORM-0099,Phosphate,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.815,7.578,3.608,88.814,95.598,False
+FORM-0099,Phosphate,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.837,8.339,3.447,88.214,96.143,False
+FORM-0100,Phosphate,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.511,8.288,3.846,87.866,95.917,False
+FORM-0100,Phosphate,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.436,7.845,3.853,88.302,97.846,False
+FORM-0100,Phosphate,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.603,8.198,3.056,88.747,95.811,False
+FORM-0101,Phosphate,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.918,8.079,3.334,88.586,95.513,False
+FORM-0101,Phosphate,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.001,7.887,3.293,88.82,95.984,False
+FORM-0101,Phosphate,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.092,7.879,4.083,88.038,94.883,False
+FORM-0102,Phosphate,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.881,7.588,3.176,89.236,96.653,False
+FORM-0102,Phosphate,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.829,7.436,3.806,88.757,95.949,False
+FORM-0102,Phosphate,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.635,7.283,3.464,89.254,96.247,False
+FORM-0103,Phosphate,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.76,7.853,3.325,88.822,95.805,False
+FORM-0103,Phosphate,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.902,8.251,3.182,88.567,95.997,False
+FORM-0103,Phosphate,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.923,8.253,3.166,88.58,95.102,False
+FORM-0104,Phosphate,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.553,8.508,3.808,87.683,96.482,False
+FORM-0104,Phosphate,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.607,8.412,3.255,88.333,96.098,False
+FORM-0104,Phosphate,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.612,7.615,3.649,88.737,94.981,False
+FORM-0105,Phosphate,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.483,9.181,3.194,87.625,96.267,False
+FORM-0105,Phosphate,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.344,8.371,3.218,88.411,97.689,False
+FORM-0105,Phosphate,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.597,8.756,3.569,87.676,95.912,False
+FORM-0106,Phosphate,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.35,8.418,3.103,88.478,97.349,False
+FORM-0106,Phosphate,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.26,8.558,3.478,87.964,98.103,False
+FORM-0106,Phosphate,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.33,8.535,3.475,87.99,98.033,False
+FORM-0107,Phosphate,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.313,8.613,3.428,87.958,94.907,False
+FORM-0107,Phosphate,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.387,8.395,3.283,88.322,95.032,False
+FORM-0107,Phosphate,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.288,9.172,3.636,87.192,97.28,False
+FORM-0108,Phosphate,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.006,8.492,3.292,88.216,95.747,False
+FORM-0108,Phosphate,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.025,9.201,3.14,87.659,97.656,False
+FORM-0108,Phosphate,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.867,8.788,3.151,88.06,98.126,False
+FORM-0109,Phosphate,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.442,8.342,3.554,88.104,94.082,False
+FORM-0109,Phosphate,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.534,8.699,3.588,87.713,95.27,False
+FORM-0109,Phosphate,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.484,7.95,3.337,88.712,97.053,False
+FORM-0110,Phosphate,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.172,8.917,3.504,87.58,96.714,False
+FORM-0110,Phosphate,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.415,8.399,3.822,87.78,95.225,False
+FORM-0110,Phosphate,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.332,8.776,3.312,87.912,97.365,False
+FORM-0111,Phosphate,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.324,8.073,3.423,88.504,97.122,False
+FORM-0111,Phosphate,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.344,8.7,2.953,88.347,95.026,False
+FORM-0111,Phosphate,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.398,8.959,3.319,87.722,95.668,False
+FORM-0112,Phosphate,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.188,9.181,3.953,86.866,97.562,False
+FORM-0112,Phosphate,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.127,8.694,3.222,88.084,97.571,False
+FORM-0112,Phosphate,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.141,8.76,3.076,88.164,96.798,False
+FORM-0113,Phosphate,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.247,9.049,3.274,87.677,96.68,False
+FORM-0113,Phosphate,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.581,9.626,3.478,86.896,97.929,False
+FORM-0113,Phosphate,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.383,9.267,3.015,87.719,96.771,False
+FORM-0114,Phosphate,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.062,9.141,2.842,88.017,97.276,False
+FORM-0114,Phosphate,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.049,9.098,3.491,87.412,96.073,False
+FORM-0114,Phosphate,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.059,9.551,3.18,87.269,98.037,False
+FORM-0115,Phosphate,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.325,9.55,3.294,87.156,96.886,False
+FORM-0115,Phosphate,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.296,9.402,3.391,87.207,96.977,False
+FORM-0115,Phosphate,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.049,8.698,3.439,87.863,97.923,False
+FORM-0116,Phosphate,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.973,9.097,3.525,87.378,96.818,False
+FORM-0116,Phosphate,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.563,8.542,2.941,88.517,97.013,False
+FORM-0116,Phosphate,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.818,9.188,3.297,87.515,98.733,False
+FORM-0117,Phosphate,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.396,9.987,3.506,86.507,95.909,False
+FORM-0117,Phosphate,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.496,9.546,3.01,87.444,96.004,False
+FORM-0117,Phosphate,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.263,9.271,3.658,87.071,95.774,False
+FORM-0118,Phosphate,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.242,9.518,3.22,87.262,97.522,False
+FORM-0118,Phosphate,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.369,9.287,3.882,86.831,97.608,False
+FORM-0118,Phosphate,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.326,9.47,2.933,87.597,95.832,False
+FORM-0119,Phosphate,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.473,9.285,3.41,87.305,95.9,False
+FORM-0119,Phosphate,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.35,9.199,3.663,87.138,97.288,False
+FORM-0119,Phosphate,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.347,9.202,3.358,87.44,97.366,False
+FORM-0120,Phosphate,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.015,8.86,3.297,87.843,94.956,False
+FORM-0120,Phosphate,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.025,8.881,3.217,87.902,96.322,False
+FORM-0120,Phosphate,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.923,8.613,3.128,88.26,98.217,False
+FORM-0121,Acetate,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.784,6.859,3.994,89.148,97.655,False
+FORM-0121,Acetate,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.886,6.305,3.792,89.904,97.87,False
+FORM-0121,Acetate,5.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.711,6.457,3.336,90.208,98.538,False
+FORM-0122,Acetate,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.589,6.24,3.796,89.964,98.1,False
+FORM-0122,Acetate,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.56,7.085,3.439,89.476,97.997,False
+FORM-0122,Acetate,5.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.747,6.312,3.591,90.097,99.048,False
+FORM-0123,Acetate,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.799,5.834,3.402,90.764,96.652,False
+FORM-0123,Acetate,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.704,5.811,3.656,90.533,98.307,False
+FORM-0123,Acetate,5.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.571,5.691,3.372,90.937,98.33,False
+FORM-0124,Acetate,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.56,6.802,3.316,89.882,98.582,False
+FORM-0124,Acetate,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.204,6.362,3.37,90.268,99.932,False
+FORM-0124,Acetate,5.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.311,6.402,3.482,90.116,98.132,False
+FORM-0125,Acetate,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.983,6.377,3.349,90.274,96.99,False
+FORM-0125,Acetate,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.968,6.167,3.162,90.671,98.48,False
+FORM-0125,Acetate,5.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.888,6.01,3.518,90.472,96.965,False
+FORM-0126,Acetate,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.743,6.456,2.873,90.671,98.346,False
+FORM-0126,Acetate,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.738,6.266,3.389,90.345,98.294,False
+FORM-0126,Acetate,5.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.933,6.515,3.899,89.586,98.679,False
+FORM-0127,Acetate,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.84,6.399,3.309,90.293,96.15,False
+FORM-0127,Acetate,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.55,6.075,2.904,91.021,98.163,False
+FORM-0127,Acetate,5.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.582,6.784,3.07,90.145,98.199,False
+FORM-0128,Acetate,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.408,6.175,3.451,90.373,98.078,False
+FORM-0128,Acetate,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.558,5.488,3.39,91.122,100.0,False
+FORM-0128,Acetate,5.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.57,6.451,3.558,89.991,98.242,False
+FORM-0129,Acetate,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.05,7.623,3.403,88.974,97.666,False
+FORM-0129,Acetate,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.806,7.001,3.318,89.681,96.43,False
+FORM-0129,Acetate,5.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.882,7.386,3.685,88.929,97.212,False
+FORM-0130,Acetate,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.78,6.764,2.937,90.299,99.022,False
+FORM-0130,Acetate,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.765,6.814,3.124,90.062,99.052,False
+FORM-0130,Acetate,5.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.568,6.89,3.099,90.011,98.288,False
+FORM-0131,Acetate,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.786,6.646,3.015,90.339,96.915,False
+FORM-0131,Acetate,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.839,6.718,3.347,89.935,98.205,False
+FORM-0131,Acetate,5.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.743,6.825,3.489,89.686,98.009,False
+FORM-0132,Acetate,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.509,6.501,2.665,90.834,98.833,False
+FORM-0132,Acetate,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.474,6.953,3.305,89.742,99.395,False
+FORM-0132,Acetate,5.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.33,7.303,3.516,89.181,98.393,False
+FORM-0133,Acetate,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.063,7.452,3.022,89.525,97.051,False
+FORM-0133,Acetate,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.913,6.778,3.016,90.206,97.937,False
+FORM-0133,Acetate,5.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.841,6.963,3.325,89.712,97.997,False
+FORM-0134,Acetate,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.957,6.704,3.647,89.649,99.051,False
+FORM-0134,Acetate,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.949,7.058,2.976,89.966,98.371,False
+FORM-0134,Acetate,5.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.083,7.474,3.253,89.273,98.121,False
+FORM-0135,Acetate,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.853,6.974,3.149,89.877,96.653,False
+FORM-0135,Acetate,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.837,7.048,3.452,89.501,98.334,False
+FORM-0135,Acetate,5.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.904,7.09,4.047,88.863,97.467,False
+FORM-0136,Acetate,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.633,7.384,2.658,89.958,99.597,False
+FORM-0136,Acetate,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.58,7.04,3.641,89.319,97.759,False
+FORM-0136,Acetate,5.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,0.651,7.369,3.338,89.294,98.07,False
+FORM-0137,Acetate,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.365,8.285,3.34,88.376,97.291,False
+FORM-0137,Acetate,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.348,7.287,3.287,89.426,94.957,False
+FORM-0137,Acetate,6.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.378,8.246,2.97,88.784,97.407,False
+FORM-0138,Acetate,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.951,8.239,3.148,88.612,97.156,False
+FORM-0138,Acetate,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.105,7.767,3.593,88.639,97.275,False
+FORM-0138,Acetate,6.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.088,7.587,3.409,89.004,96.211,False
+FORM-0139,Acetate,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.239,7.905,3.274,88.821,96.677,False
+FORM-0139,Acetate,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.024,8.695,3.75,87.555,97.413,False
+FORM-0139,Acetate,6.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.275,7.475,3.598,88.927,97.236,False
+FORM-0140,Acetate,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,0.878,7.196,3.156,89.649,98.332,False
+FORM-0140,Acetate,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,0.78,7.802,2.809,89.389,97.46,False
+FORM-0140,Acetate,6.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,0.841,7.913,3.46,88.628,97.816,False
+FORM-0141,Acetate,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.3,8.365,3.228,88.407,97.356,False
+FORM-0141,Acetate,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.347,7.711,3.424,88.864,96.23,False
+FORM-0141,Acetate,6.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.396,8.159,3.327,88.514,95.4,False
+FORM-0142,Acetate,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.162,8.034,2.891,89.076,96.609,False
+FORM-0142,Acetate,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.247,7.727,3.376,88.897,97.117,False
+FORM-0142,Acetate,6.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.175,8.721,3.043,88.236,95.143,False
+FORM-0143,Acetate,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.274,7.966,3.167,88.867,97.028,False
+FORM-0143,Acetate,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.44,8.234,2.744,89.023,96.309,False
+FORM-0143,Acetate,6.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.205,7.818,3.473,88.71,97.22,False
+FORM-0144,Acetate,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,0.892,7.317,3.072,89.612,97.888,False
+FORM-0144,Acetate,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,0.897,8.152,3.718,88.13,97.058,False
+FORM-0144,Acetate,6.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.011,7.296,3.519,89.185,97.387,False
+FORM-0145,Acetate,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.982,8.782,3.365,87.854,95.051,False
+FORM-0145,Acetate,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.979,8.717,3.722,87.56,94.547,False
+FORM-0145,Acetate,6.5,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.966,8.288,3.152,88.561,95.292,False
+FORM-0146,Acetate,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.686,8.258,3.287,88.455,96.493,False
+FORM-0146,Acetate,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.873,8.952,3.51,87.538,95.159,False
+FORM-0146,Acetate,6.5,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.776,8.446,3.308,88.245,95.284,False
+FORM-0147,Acetate,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.759,8.968,3.199,87.834,94.926,False
+FORM-0147,Acetate,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.768,9.346,3.474,87.18,95.044,False
+FORM-0147,Acetate,6.5,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.935,9.541,3.162,87.297,94.703,False
+FORM-0148,Acetate,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.37,8.937,3.256,87.807,97.72,False
+FORM-0148,Acetate,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,1.461,8.321,3.387,88.292,97.251,False
+FORM-0148,Acetate,6.5,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.353,9.626,3.045,87.329,96.593,False
+FORM-0149,Acetate,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.94,9.334,2.91,87.756,95.942,False
+FORM-0149,Acetate,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.096,9.106,3.273,87.621,95.859,False
+FORM-0149,Acetate,6.5,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.963,8.856,3.691,87.453,93.699,False
+FORM-0150,Acetate,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,1.955,8.775,3.018,88.207,95.199,False
+FORM-0150,Acetate,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.027,8.873,3.4,87.727,94.867,False
+FORM-0150,Acetate,6.5,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,1.759,8.672,3.399,87.928,94.963,False
+FORM-0151,Acetate,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.871,8.619,3.588,87.793,96.202,False
+FORM-0151,Acetate,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.919,8.795,3.469,87.737,93.871,False
+FORM-0151,Acetate,6.5,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.845,8.09,3.479,88.431,93.854,False
+FORM-0152,Acetate,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,1.602,8.511,3.515,87.974,96.74,False
+FORM-0152,Acetate,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,1.574,8.905,3.329,87.766,97.102,False
+FORM-0152,Acetate,6.5,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,1.592,8.999,2.867,88.134,96.64,False
+FORM-0153,Acetate,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.762,10.301,3.899,85.8,93.272,False
+FORM-0153,Acetate,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.917,9.448,3.727,86.825,93.404,False
+FORM-0153,Acetate,7.0,Sucrose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.936,9.676,3.433,86.891,93.011,False
+FORM-0154,Acetate,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.622,9.365,3.87,86.766,91.887,False
+FORM-0154,Acetate,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.574,9.474,3.276,87.25,93.543,False
+FORM-0154,Acetate,7.0,Sucrose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.748,9.684,3.322,86.994,92.622,False
+FORM-0155,Acetate,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.662,9.791,3.794,86.415,94.121,False
+FORM-0155,Acetate,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.766,9.605,3.502,86.893,93.601,False
+FORM-0155,Acetate,7.0,Trehalose,low,1.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.636,9.945,3.633,86.422,92.169,False
+FORM-0156,Acetate,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.416,9.963,3.535,86.501,94.282,False
+FORM-0156,Acetate,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.242,9.706,3.757,86.536,94.791,False
+FORM-0156,Acetate,7.0,Trehalose,high,4.0,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.491,9.66,3.495,86.845,93.644,False
+FORM-0157,Acetate,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.888,9.145,4.094,86.761,93.848,False
+FORM-0157,Acetate,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.831,10.04,3.331,86.629,92.345,False
+FORM-0157,Acetate,7.0,Polysorbate-80,low,0.02,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.844,10.418,3.919,85.663,92.791,False
+FORM-0158,Acetate,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",1,2.599,9.81,3.956,86.234,91.331,False
+FORM-0158,Acetate,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",2,2.827,9.194,3.504,87.302,92.843,False
+FORM-0158,Acetate,7.0,Polysorbate-80,high,0.08,% w/v,"40C/75%RH, 4 weeks (accelerated)",3,2.694,9.93,3.416,86.654,92.591,False
+FORM-0159,Acetate,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,2.595,9.348,3.838,86.813,92.243,False
+FORM-0159,Acetate,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,2.795,9.531,3.655,86.814,93.197,False
+FORM-0159,Acetate,7.0,Arginine,low,50.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,2.705,10.1,3.842,86.058,93.289,False
+FORM-0160,Acetate,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",1,2.403,9.813,3.91,86.276,94.683,False
+FORM-0160,Acetate,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",2,2.494,9.828,2.851,87.321,93.609,False
+FORM-0160,Acetate,7.0,Arginine,high,150.0,mM,"40C/75%RH, 4 weeks (accelerated)",3,2.372,8.614,3.458,87.928,92.69,False
